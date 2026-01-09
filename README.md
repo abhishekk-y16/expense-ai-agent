@@ -24,7 +24,7 @@ Whenever a User sends an expense message via Telegram (e.g., `₹200 lunch at Su
 
 ---
 
-## 🛠️ Setup Instructions
+## 🛠️ Setup Instructions👇
 
 1. Clone this repository:
    ```bash
