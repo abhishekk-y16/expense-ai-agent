@@ -20,7 +20,7 @@ Whenever a User Sends an Expense Message via Telegram (e.g., `₹200 Lunch at Su
 
 ✅ Supports Messages with currency symbols  
 ✅ Intelligently categorizes expenses using Gemini  
-✅ Uses Current Timestamp When Date is missing  
+✅ Uses Current Timestamp When Date is Missing  
 
 ---
 
