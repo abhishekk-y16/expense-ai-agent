@@ -18,7 +18,7 @@ Whenever a User Sends an Expense Message via Telegram (e.g., `₹200 Lunch at Su
 2. Writes the Parsed Data into an Excel File with the following structure:  
    `Date | Item | Amount | Category | Description`
 
-✅ Supports Messages with currency symbols  
+✅ Supports Messages with currency Symbols  
 ✅ Intelligently categorizes expenses using Gemini  
 ✅ Uses Current Timestamp When Date is Missing  
 
