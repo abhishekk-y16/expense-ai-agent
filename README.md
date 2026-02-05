@@ -34,5 +34,5 @@ Whenever a User Sends an Expense Message via Telegram (e.g., `₹200 Lunch at Su
 4. Deploy the workflow and test it by sending an expense message to your Telegram bot. Your Excel sheet should update instantly!
 
 ## 🙌 Contribute
-Feel free to fork this project, Improve the Logic, or add new features like multi-user support, analytics dashboard, or budget alerts. PRs are welcome!
+Feel free to fork this project, Improve the Logic, or add New features like multi-user support, analytics dashboard, or budget alerts. PRs are welcome!
 
