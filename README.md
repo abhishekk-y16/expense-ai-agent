@@ -31,7 +31,7 @@ Whenever a User Sends an Expense Message via Telegram (e.g., `₹200 Lunch at Su
    git clone https://github.com/yourusername/expense-ai-agent.git
 2. Open [n8n](https://n8n.io/) and import the provided .json workflow.
 3. Configure the Node with the required credentials.
-4. Deploy the workflow and test it by sending an expense message to your Telegram bot. Your Excel sheet should update instantly!
+4. Deploy the workflow and test it by sending an expense message to your Telegram bot. Your Excel sheet should update instantly! 
 
 ## 🙌 Contribute
 Feel free to fork this project, Improve the Logic, or add New features like multi-user support, analytics dashboard, or budget alerts. PRs are welcome!
