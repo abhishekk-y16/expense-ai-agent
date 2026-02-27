@@ -15,7 +15,7 @@ Whenever a User Sends an Expense Message via Telegram (e.g., `₹200 Lunch at Su
    - **Description**
    - **Date** (or Assigns the Current Timestamp if Missing) 
 
-2. Writes the Parsed Data into an Excel File with the following structure:  
+2.  Writes the Parsed Data into an Excel File with the following structure:  
    `Date | Item | Amount | Category | Description`
 
 ✅ Supports Messages with Currency Symbols  
