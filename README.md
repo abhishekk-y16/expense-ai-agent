@@ -11,7 +11,7 @@ Whenever a User Sends an Expense Message via Telegram (e.g., `₹200 Lunch at Su
 1. Uses **Gemini API** to Extract and Interpret: 
    - **Amount**
    - **Item**
-   - **Category** (e.g., Food, Travel, Entertainment) 
+   - **Category** (e.g., Food, Travel, Entertainment)  
    - **Description**
    - **Date** (or Assigns the Current Timestamp if Missing)  
 
