@@ -4,7 +4,7 @@ An AI-powered automation built Using [n8n](https://n8n.io/) that captures Expens
 
 ![Workflow Screenshot](Screenshot.jpg) 
 
-## 🚀 What It Does 
+## 🚀 What It Does  
 
 Whenever a User Sends an Expense Message via Telegram (e.g., `₹200 Lunch at Subway` or `Cab - ₹450`), this AI agent: 
 
