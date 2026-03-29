@@ -8,7 +8,7 @@ An AI-powered automation built Using [n8n](https://n8n.io/) that captures Expens
 
 Whenever a User Sends an Expense Message via Telegram (e.g., `₹200 Lunch at Subway` or `Cab - ₹450`), this AI agent: 
 
-1. Uses **Gemini API** to Extract and Interpret: 
+1. Uses **Gemini API** to Extract and Interpret:  
    - **Amount**
    - **Item**
    - **Category** (e.g., Food, Travel, Entertainment)  
