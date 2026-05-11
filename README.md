@@ -1,4 +1,4 @@
-# Expense-AI-Agent 🤖💸  
+# Expense-AI-Agent 🤖💸   
 
 An AI-powered automation built Using [n8n](https://n8n.io/) that captures Expense details From  a **Telegram bot** and Logs them into an **Excel sheet** — Smartly Extracting  Insights Using the **Gemini API**.     
 
